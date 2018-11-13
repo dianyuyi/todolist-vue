@@ -1,4 +1,4 @@
-##  用 vue 做的 todolist, 教學用
+用 vue 做的 todolist, 教學用
 
 建議教材 [Vue JS 2 - The Complete Guide (incl. Vue Router & Vuex)](https://www.udemy.com/vuejs-2-the-complete-guide/)  
 [Vue api](https://vuejs.org/v2/api/)
