@@ -110,7 +110,7 @@ git config --global user.email <你的email>
   [教學](https://blog.github.com/2016-08-22-publish-your-project-documentation-with-github-pages/)
 
 - 更改 npm run build 的預設目錄  
-  加上--dest docs
+  加上--dest docs  
   package.json
 
 ```js
